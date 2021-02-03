@@ -1,4 +1,4 @@
-# bcn_accidents
+# Barcelona City Accidents Analysis
 Analysis of the Barcelona city accidents
 
 In this project we analyze the incidence of accidents in the city of Barcelona from 2010 to 2019.
